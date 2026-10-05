@@ -1,0 +1,28 @@
+body {
+  padding-top: 3rem;
+}
+.carousel-item {
+  height: 32rem;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://m.yodycdn.com/blog/hinh-nen-thien-nhien-4k-yody-vn-1.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://m.yodycdn.com/blog/hinh-nen-thien-nhien-4k-yody-vn-6.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://m.yodycdn.com/blog/hinh-nen-thien-nhien-4k-yody-vn-13.jpg);
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 60px 0 60px;
+}
